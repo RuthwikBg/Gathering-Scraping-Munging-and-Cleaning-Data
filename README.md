@@ -1,4 +1,4 @@
-# Assignment 3 - Gathering, Scraping, Munging and Cleaning Data
+# Gathering, Scraping, Munging and Cleaning Data
                                                               
 
 The objective of this project is to build a collect, clean and build Accidents database . The primary source of extraction is data repositories from web and the data is cleaned to obtain a consistent dataset. Furthermore, the dataset was cleaned and audited to make it unique and error free. Data was successfully loaded in Database. 
